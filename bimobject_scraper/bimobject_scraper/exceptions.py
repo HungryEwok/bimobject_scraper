@@ -1,0 +1,2 @@
+class NoDeeplAuthKeyException(BaseException):
+    pass
